@@ -24,7 +24,7 @@ A flat, ready-to-use lexicon of **100,000 English words paired with their Urdu m
 
 | word | meaning |
 |---|---|
-| the | دی |
+| more | مزید |
 | to | کو |
 | and | اور |
 | is | ہے |
