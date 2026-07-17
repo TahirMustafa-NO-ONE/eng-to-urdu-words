@@ -108,7 +108,9 @@ df.to_csv("eng_to_urdu_clean.csv", index=False, encoding="utf-8-sig")
 
 ## 📄 License
 
-Specify your intended license here (e.g., MIT, CC-BY-4.0, or "for research use only") before publishing or redistributing this dataset.
+This dataset is released under **[CC0 1.0 Universal (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/)**.
+ 
+You can copy, modify, distribute, and use this dataset — including for commercial purposes — without asking permission or providing attribution.
 
 ## 🤝 Contributing
 
